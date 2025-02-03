@@ -3,9 +3,10 @@ from bs4 import BeautifulSoup
 import openai
 import time
 import logging
-from config import API_KEY
 import urllib3
 from concurrent.futures import ThreadPoolExecutor, as_completed
+import os
+
 
 # Настройка логирования
 logging.basicConfig(filename="processing.log", level=logging.INFO, format="%(asctime)s - %(message)s")
@@ -127,7 +128,7 @@ def process_website(url, output_file):
     if result.startswith("+ SaaS"):
         print(f"{domain}: {result}")
         # Запись только домена сайта в файл
-        with open(output_file, 'w', encoding='utf-8') as outfile:
+        with open(output_file, 'a', encoding='utf-8') as outfile:
             outfile.write(f"{domain}\n")
         return f"{domain}"
     return None

@@ -3,9 +3,10 @@ from bs4 import BeautifulSoup
 import openai
 import time
 import logging
-from config import API_KEY
 import urllib3
 from concurrent.futures import ThreadPoolExecutor, as_completed
+import os
+
 
 # Настройка логирования
 logging.basicConfig(filename="processing.log", level=logging.INFO, format="%(asctime)s - %(message)s")
@@ -14,7 +15,7 @@ logging.basicConfig(filename="processing.log", level=logging.INFO, format="%(asc
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # Укажите ваш API-ключ
-openai.api_key = API_KEY
+API_KEY = os.getenv("API_KEY")
 
 EXCLUDE_KEYWORDS = ["microsoft 365", "dynamics 365", "office 365"]
 

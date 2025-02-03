@@ -99,18 +99,24 @@ def get_domains_count():
     return jsonify({"domains_loaded": domains_loaded})
 
 
-
-
 @app.route("/start_analysis")
 def start_analysis():
     """
-    Запускает анализ загруженного файла.
+    Очищает файлы перед новой сессией и запускает анализ.
     """
     global is_running
     if not is_running:
+        # ✅ Очищаем файлы перед началом нового анализа
+        open(output_file_stage1, "w").close()  # Очищаем transite_stage1.txt
+        open(output_file_final, "w").close()  # Очищаем transite_final.txt
+
+        print("🗑️ Файлы очищены, начинаем новый анализ!")
+
         thread = threading.Thread(target=run_analysis)
         thread.start()
+
     return jsonify({"message": "Анализ начался"})
+
 
 
 @app.route("/stop_analysis")

@@ -2126,3 +2126,5 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 2025-02-03 15:50:30,452 - Ошибка при взаимодействии с API OpenAI: Incorrect API key provided: sk-XXXXX**************XXXX. You can find your API key at https://platform.openai.com/account/api-keys.
 2025-02-03 15:50:30,471 -  * Debugger is active!
 2025-02-03 15:50:30,472 -  * Debugger PIN: 130-684-047
+2025-02-03 16:17:16,482 -  * Detected change in 'C:\\Users\\Vadim\\PycharmProjects\\FrontVersion\\main.py', reloading
+2025-02-03 16:17:16,538 -  * Restarting with stat

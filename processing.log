@@ -2062,3 +2062,67 @@ A detailed migration guide is available here: https://github.com/openai/openai-p
 2025-02-03 15:42:34,369 - Ошибка при взаимодействии с API OpenAI: Incorrect API key provided: sk-XXXXX**************XXXX. You can find your API key at https://platform.openai.com/account/api-keys.
 2025-02-03 15:42:34,381 -  * Debugger is active!
 2025-02-03 15:42:34,382 -  * Debugger PIN: 130-684-047
+2025-02-03 15:50:24,368 -  * Detected change in 'C:\\Users\\Vadim\\PycharmProjects\\FrontVersion\\config.py', reloading
+2025-02-03 15:50:24,426 -  * Restarting with stat
+2025-02-03 15:50:25,059 - Обработка сайта: 12guide.com
+2025-02-03 15:50:25,060 - Обработка сайта: 1check.com
+2025-02-03 15:50:25,061 - Обработка сайта: 1tool.com
+2025-02-03 15:50:25,062 - Обработка сайта: 2021.ai
+2025-02-03 15:50:25,064 - Обработка сайта: 21bitcoin.app
+2025-02-03 15:50:25,662 - error_code=invalid_api_key error_message='Incorrect API key provided: sk-XXXXX**************XXXX. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-02-03 15:50:25,662 - Ошибка при взаимодействии с API OpenAI: Incorrect API key provided: sk-XXXXX**************XXXX. You can find your API key at https://platform.openai.com/account/api-keys.
+2025-02-03 15:50:25,663 - Обработка сайта: 2hatslogic.com
+2025-02-03 15:50:25,742 - error_code=invalid_api_key error_message='Incorrect API key provided: sk-XXXXX**************XXXX. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-02-03 15:50:25,743 - Ошибка при взаимодействии с API OpenAI: Incorrect API key provided: sk-XXXXX**************XXXX. You can find your API key at https://platform.openai.com/account/api-keys.
+2025-02-03 15:50:25,743 - Обработка сайта: 2wcom.com
+2025-02-03 15:50:26,600 - error_code=invalid_api_key error_message='Incorrect API key provided: sk-XXXXX**************XXXX. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-02-03 15:50:26,600 - Ошибка при взаимодействии с API OpenAI: Incorrect API key provided: sk-XXXXX**************XXXX. You can find your API key at https://platform.openai.com/account/api-keys.
+2025-02-03 15:50:26,600 - Обработка сайта: 360erp.com
+2025-02-03 15:50:26,822 - error_code=invalid_api_key error_message='Incorrect API key provided: sk-XXXXX**************XXXX. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-02-03 15:50:26,822 - Ошибка при взаимодействии с API OpenAI: Incorrect API key provided: sk-XXXXX**************XXXX. You can find your API key at https://platform.openai.com/account/api-keys.
+2025-02-03 15:50:26,822 - Обработка сайта: 3dverkstan.se
+2025-02-03 15:50:26,915 - error_code=invalid_api_key error_message='Incorrect API key provided: sk-XXXXX**************XXXX. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-02-03 15:50:26,916 - Ошибка при взаимодействии с API OpenAI: Incorrect API key provided: sk-XXXXX**************XXXX. You can find your API key at https://platform.openai.com/account/api-keys.
+2025-02-03 15:50:26,916 - Обработка сайта: 42matters.com
+2025-02-03 15:50:27,535 - error_code=invalid_api_key error_message='Incorrect API key provided: sk-XXXXX**************XXXX. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-02-03 15:50:27,535 - Ошибка при взаимодействии с API OpenAI: Incorrect API key provided: sk-XXXXX**************XXXX. You can find your API key at https://platform.openai.com/account/api-keys.
+2025-02-03 15:50:27,550 - error_code=invalid_api_key error_message='Incorrect API key provided: sk-XXXXX**************XXXX. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-02-03 15:50:27,550 - Ошибка при взаимодействии с API OpenAI: Incorrect API key provided: sk-XXXXX**************XXXX. You can find your API key at https://platform.openai.com/account/api-keys.
+2025-02-03 15:50:27,604 - error_code=invalid_api_key error_message='Incorrect API key provided: sk-XXXXX**************XXXX. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-02-03 15:50:27,604 - Ошибка при взаимодействии с API OpenAI: Incorrect API key provided: sk-XXXXX**************XXXX. You can find your API key at https://platform.openai.com/account/api-keys.
+2025-02-03 15:50:27,694 - error_code=invalid_api_key error_message='Incorrect API key provided: sk-XXXXX**************XXXX. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-02-03 15:50:27,695 - Ошибка при взаимодействии с API OpenAI: Incorrect API key provided: sk-XXXXX**************XXXX. You can find your API key at https://platform.openai.com/account/api-keys.
+2025-02-03 15:50:28,202 - error_code=invalid_api_key error_message='Incorrect API key provided: sk-XXXXX**************XXXX. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-02-03 15:50:28,203 - Ошибка при взаимодействии с API OpenAI: Incorrect API key provided: sk-XXXXX**************XXXX. You can find your API key at https://platform.openai.com/account/api-keys.
+2025-02-03 15:50:28,204 - Обработка сайта: 12guide.com
+2025-02-03 15:50:28,205 - Обработка сайта: 1check.com
+2025-02-03 15:50:28,205 - Обработка сайта: 1tool.com
+2025-02-03 15:50:28,206 - Обработка сайта: 2021.ai
+2025-02-03 15:50:28,207 - Обработка сайта: 21bitcoin.app
+2025-02-03 15:50:28,747 - error_code=invalid_api_key error_message='Incorrect API key provided: sk-XXXXX**************XXXX. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-02-03 15:50:28,747 - Ошибка при взаимодействии с API OpenAI: Incorrect API key provided: sk-XXXXX**************XXXX. You can find your API key at https://platform.openai.com/account/api-keys.
+2025-02-03 15:50:28,749 - Обработка сайта: 2hatslogic.com
+2025-02-03 15:50:28,863 - error_code=invalid_api_key error_message='Incorrect API key provided: sk-XXXXX**************XXXX. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-02-03 15:50:28,863 - Ошибка при взаимодействии с API OpenAI: Incorrect API key provided: sk-XXXXX**************XXXX. You can find your API key at https://platform.openai.com/account/api-keys.
+2025-02-03 15:50:28,863 - Обработка сайта: 2wcom.com
+2025-02-03 15:50:29,289 - error_code=invalid_api_key error_message='Incorrect API key provided: sk-XXXXX**************XXXX. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-02-03 15:50:29,293 - Ошибка при взаимодействии с API OpenAI: Incorrect API key provided: sk-XXXXX**************XXXX. You can find your API key at https://platform.openai.com/account/api-keys.
+2025-02-03 15:50:29,294 - Обработка сайта: 360erp.com
+2025-02-03 15:50:29,447 - error_code=invalid_api_key error_message='Incorrect API key provided: sk-XXXXX**************XXXX. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-02-03 15:50:29,447 - Ошибка при взаимодействии с API OpenAI: Incorrect API key provided: sk-XXXXX**************XXXX. You can find your API key at https://platform.openai.com/account/api-keys.
+2025-02-03 15:50:29,448 - Обработка сайта: 3dverkstan.se
+2025-02-03 15:50:29,575 - error_code=invalid_api_key error_message='Incorrect API key provided: sk-XXXXX**************XXXX. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-02-03 15:50:29,575 - Ошибка при взаимодействии с API OpenAI: Incorrect API key provided: sk-XXXXX**************XXXX. You can find your API key at https://platform.openai.com/account/api-keys.
+2025-02-03 15:50:29,576 - Обработка сайта: 42matters.com
+2025-02-03 15:50:29,942 - error_code=invalid_api_key error_message='Incorrect API key provided: sk-XXXXX**************XXXX. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-02-03 15:50:29,943 - Ошибка при взаимодействии с API OpenAI: Incorrect API key provided: sk-XXXXX**************XXXX. You can find your API key at https://platform.openai.com/account/api-keys.
+2025-02-03 15:50:30,011 - error_code=invalid_api_key error_message='Incorrect API key provided: sk-XXXXX**************XXXX. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-02-03 15:50:30,011 - Ошибка при взаимодействии с API OpenAI: Incorrect API key provided: sk-XXXXX**************XXXX. You can find your API key at https://platform.openai.com/account/api-keys.
+2025-02-03 15:50:30,167 - error_code=invalid_api_key error_message='Incorrect API key provided: sk-XXXXX**************XXXX. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-02-03 15:50:30,169 - Ошибка при взаимодействии с API OpenAI: Incorrect API key provided: sk-XXXXX**************XXXX. You can find your API key at https://platform.openai.com/account/api-keys.
+2025-02-03 15:50:30,371 - error_code=invalid_api_key error_message='Incorrect API key provided: sk-XXXXX**************XXXX. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-02-03 15:50:30,372 - Ошибка при взаимодействии с API OpenAI: Incorrect API key provided: sk-XXXXX**************XXXX. You can find your API key at https://platform.openai.com/account/api-keys.
+2025-02-03 15:50:30,452 - error_code=invalid_api_key error_message='Incorrect API key provided: sk-XXXXX**************XXXX. You can find your API key at https://platform.openai.com/account/api-keys.' error_param=None error_type=invalid_request_error message='OpenAI API error received' stream_error=False
+2025-02-03 15:50:30,452 - Ошибка при взаимодействии с API OpenAI: Incorrect API key provided: sk-XXXXX**************XXXX. You can find your API key at https://platform.openai.com/account/api-keys.
+2025-02-03 15:50:30,471 -  * Debugger is active!
+2025-02-03 15:50:30,472 -  * Debugger PIN: 130-684-047

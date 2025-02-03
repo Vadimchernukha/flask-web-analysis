@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: white; /* Вернул белый фон */
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Центрирование по вертикали */
+    margin: 0;
+}
+.file-input-container {
+    display: flex;
+    justify-content: center;
+    width: 100%; /* Делаем контейнер шириной всей формы */
+}
+
+.file-input {
+    width: 100%; /* Растягиваем input по ширине контейнера */
+    max-width: 350px; /* Максимальная ширина равна кнопкам */
+    height: 40px;
+    border: 2px solid #b48bf2;
+    border-radius: 8px;
+    padding: 5px;
+    font-size: 16px;
+}
+
+button, .download-btn {
+    display: block;
+    width: 100%; /* Все кнопки одной ширины */
+    margin-top: 15px;
+    padding: 16px;
+    background-color: #b48bf2; /* Светло-фиолетовый */
+    color: white;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    font-size: 18px;
+    text-align: center;
+    box-sizing: border-box; /* Исправляет проблему с шириной */
+}
+
+button:hover, .download-btn:hover {
+    background-color: #d0a9ff; /* Светлее при наведении */
+}
+
+.download-btn {
+    text-decoration: none; /* Убираем подчеркивание */
+    display: inline-block;
+}
+
+progress {
+    width: 100%;
+    height: 15px;
+    border-radius: 8px;
+}

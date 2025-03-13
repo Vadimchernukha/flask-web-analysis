@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans-serif;
     text-align: center;
-    background-color: white; /* Вернул белый фон */
+    background-color: #5f4dee; /* Вернул белый фон */
     color: black;
     display: flex;
     justify-content: center;

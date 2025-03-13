@@ -30,7 +30,7 @@ button, .download-btn {
     width: 100%; /* Все кнопки одной ширины */
     margin-top: 15px;
     padding: 16px;
-    background-color: white; /* Светло-фиолетовый */
+    background-color: #5f4dee; /* Светло-фиолетовый */
     color: white;
     border: none;
     border-radius: 12px;

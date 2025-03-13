@@ -31,8 +31,8 @@ button, .download-btn {
     width: 100%; /* Все кнопки одной ширины */
     margin-top: 15px;
     padding: 16px;
-    background-color: #5f4dee; /* Основной цвет кнопки */
-    color: white; /* Теперь текст белый, чтобы был виден */
+    background-color: white; /* Основной цвет кнопки */
+    color: #5f4dee; /* Теперь текст белый, чтобы был виден */
     border: none;
     border-radius: 12px;
     cursor: pointer;

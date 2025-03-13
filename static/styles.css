@@ -31,7 +31,7 @@ button, .download-btn {
     margin-top: 15px;
     padding: 16px;
     background-color: #5f4dee; /* Светло-фиолетовый */
-    color: white;
+    color: #5f4dee;
     border: none;
     border-radius: 12px;
     cursor: pointer;
@@ -41,7 +41,7 @@ button, .download-btn {
 }
 
 button:hover, .download-btn:hover {
-    background-color: #d0a9ff; /* Светлее при наведении */
+    background-color: #5f4dee; /* Светлее при наведении */
 }
 
 .download-btn {
